@@ -1,6 +1,3 @@
-Certainly! Here's a combined README markdown file that includes all the information:
-
-```markdown
 # Amazon Review Scraper
 
 This Python script allows you to scrape product reviews from Amazon for a specified ASIN (Amazon Standard Identification Number). It utilizes the `requests-html` library for web scraping and stores the scraped data in a Pandas DataFrame before saving it to a CSV file.
@@ -57,12 +54,10 @@ The script logs information and errors to a log file named `amazon_review_scrape
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 
 - This script was created using the `requests-html` library for web scraping.
-- Special thanks to [OpenAI](https://openai.com/) for the AI-powered assistance.
 
 Feel free to contribute to or modify this script to suit your specific needs!
-```
